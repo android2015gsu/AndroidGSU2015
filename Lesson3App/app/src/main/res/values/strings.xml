@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lesson3App</string>
+    <string name="go_to_first">Go To First</string>
+    <string name="edit_hint">Let\'s calculate</string>
 </resources>
